@@ -1,0 +1,10 @@
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\bin\Debug\Opgave5.exe.config
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\bin\Debug\Opgave5.exe
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\bin\Debug\Opgave5.pdb
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\obj\Debug\Opgave5.csprojAssemblyReference.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\obj\Debug\Opgave5.Form1.resources
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\obj\Debug\Opgave5.Properties.Resources.resources
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\obj\Debug\Opgave5.csproj.GenerateResource.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\obj\Debug\Opgave5.csproj.CoreCompileInputs.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\obj\Debug\Opgave5.exe
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave5\obj\Debug\Opgave5.pdb

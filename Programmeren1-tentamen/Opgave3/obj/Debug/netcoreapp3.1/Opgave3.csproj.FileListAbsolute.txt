@@ -1,0 +1,13 @@
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\bin\Debug\netcoreapp3.1\Opgave3.exe
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\bin\Debug\netcoreapp3.1\Opgave3.deps.json
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\bin\Debug\netcoreapp3.1\Opgave3.runtimeconfig.json
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\bin\Debug\netcoreapp3.1\Opgave3.runtimeconfig.dev.json
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\bin\Debug\netcoreapp3.1\Opgave3.dll
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\bin\Debug\netcoreapp3.1\Opgave3.pdb
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\obj\Debug\netcoreapp3.1\Opgave3.csprojAssemblyReference.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\obj\Debug\netcoreapp3.1\Opgave3.AssemblyInfoInputs.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\obj\Debug\netcoreapp3.1\Opgave3.AssemblyInfo.cs
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\obj\Debug\netcoreapp3.1\Opgave3.csproj.CoreCompileInputs.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\obj\Debug\netcoreapp3.1\Opgave3.dll
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\obj\Debug\netcoreapp3.1\Opgave3.pdb
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Programmeren1-tentamen\Opgave3\obj\Debug\netcoreapp3.1\Opgave3.genruntimeconfig.cache

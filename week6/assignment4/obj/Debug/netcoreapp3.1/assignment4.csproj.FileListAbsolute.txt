@@ -1,0 +1,13 @@
+C:\School\Programeren 1\week6\assignment4\bin\Debug\netcoreapp3.1\assignment4.exe
+C:\School\Programeren 1\week6\assignment4\bin\Debug\netcoreapp3.1\assignment4.deps.json
+C:\School\Programeren 1\week6\assignment4\bin\Debug\netcoreapp3.1\assignment4.runtimeconfig.json
+C:\School\Programeren 1\week6\assignment4\bin\Debug\netcoreapp3.1\assignment4.runtimeconfig.dev.json
+C:\School\Programeren 1\week6\assignment4\bin\Debug\netcoreapp3.1\assignment4.dll
+C:\School\Programeren 1\week6\assignment4\bin\Debug\netcoreapp3.1\assignment4.pdb
+C:\School\Programeren 1\week6\assignment4\obj\Debug\netcoreapp3.1\assignment4.csprojAssemblyReference.cache
+C:\School\Programeren 1\week6\assignment4\obj\Debug\netcoreapp3.1\assignment4.AssemblyInfoInputs.cache
+C:\School\Programeren 1\week6\assignment4\obj\Debug\netcoreapp3.1\assignment4.AssemblyInfo.cs
+C:\School\Programeren 1\week6\assignment4\obj\Debug\netcoreapp3.1\assignment4.csproj.CoreCompileInputs.cache
+C:\School\Programeren 1\week6\assignment4\obj\Debug\netcoreapp3.1\assignment4.dll
+C:\School\Programeren 1\week6\assignment4\obj\Debug\netcoreapp3.1\assignment4.pdb
+C:\School\Programeren 1\week6\assignment4\obj\Debug\netcoreapp3.1\assignment4.genruntimeconfig.cache

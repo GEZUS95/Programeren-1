@@ -1,0 +1,10 @@
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\obj\Debug\Assignment6.Form1.resources
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\CeesGribnau\Documents\school\Programeren 1\Week2\Assignment6\obj\Debug\Assignment6.pdb

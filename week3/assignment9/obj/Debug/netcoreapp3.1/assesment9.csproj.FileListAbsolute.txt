@@ -1,0 +1,15 @@
+C:\School\Programeren 1\week3_2\assesment9\assesment9\obj\Debug\netcoreapp3.1\assesment9.csprojAssemblyReference.cache
+C:\School\Programeren 1\week3_2\assesment9\assesment9\obj\Debug\netcoreapp3.1\assesment9.Form1.resources
+C:\School\Programeren 1\week3_2\assesment9\assesment9\obj\Debug\netcoreapp3.1\assesment9.csproj.GenerateResource.cache
+C:\School\Programeren 1\week3_2\assesment9\assesment9\obj\Debug\netcoreapp3.1\assesment9.AssemblyInfoInputs.cache
+C:\School\Programeren 1\week3_2\assesment9\assesment9\obj\Debug\netcoreapp3.1\assesment9.AssemblyInfo.cs
+C:\School\Programeren 1\week3_2\assesment9\assesment9\obj\Debug\netcoreapp3.1\assesment9.csproj.CoreCompileInputs.cache
+C:\School\Programeren 1\week3_2\assesment9\assesment9\bin\Debug\netcoreapp3.1\assesment9.exe
+C:\School\Programeren 1\week3_2\assesment9\assesment9\bin\Debug\netcoreapp3.1\assesment9.deps.json
+C:\School\Programeren 1\week3_2\assesment9\assesment9\bin\Debug\netcoreapp3.1\assesment9.runtimeconfig.json
+C:\School\Programeren 1\week3_2\assesment9\assesment9\bin\Debug\netcoreapp3.1\assesment9.runtimeconfig.dev.json
+C:\School\Programeren 1\week3_2\assesment9\assesment9\bin\Debug\netcoreapp3.1\assesment9.dll
+C:\School\Programeren 1\week3_2\assesment9\assesment9\bin\Debug\netcoreapp3.1\assesment9.pdb
+C:\School\Programeren 1\week3_2\assesment9\assesment9\obj\Debug\netcoreapp3.1\assesment9.dll
+C:\School\Programeren 1\week3_2\assesment9\assesment9\obj\Debug\netcoreapp3.1\assesment9.pdb
+C:\School\Programeren 1\week3_2\assesment9\assesment9\obj\Debug\netcoreapp3.1\assesment9.genruntimeconfig.cache

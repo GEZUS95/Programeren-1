@@ -1,0 +1,12 @@
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\obj\Debug\netcoreapp3.1\assignment8.AssemblyInfoInputs.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\obj\Debug\netcoreapp3.1\assignment8.AssemblyInfo.cs
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\obj\Debug\netcoreapp3.1\assignment8.csproj.CoreCompileInputs.cache
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\bin\Debug\netcoreapp3.1\assignment8.exe
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\bin\Debug\netcoreapp3.1\assignment8.deps.json
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\bin\Debug\netcoreapp3.1\assignment8.runtimeconfig.json
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\bin\Debug\netcoreapp3.1\assignment8.runtimeconfig.dev.json
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\bin\Debug\netcoreapp3.1\assignment8.dll
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\bin\Debug\netcoreapp3.1\assignment8.pdb
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\obj\Debug\netcoreapp3.1\assignment8.dll
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\obj\Debug\netcoreapp3.1\assignment8.pdb
+C:\Users\CeesGribnau\Documents\school\Programeren 1\week3\assignment8\obj\Debug\netcoreapp3.1\assignment8.genruntimeconfig.cache
